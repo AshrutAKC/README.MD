@@ -13,6 +13,7 @@
 AKC@local:~$ whoami
 > Researching the intersection of AI learning and real-world logic.
 > Currently: Developing high-performance AI analysis models.
+
 > Location: Central Standard Time (USA)
 
 🛠 My Arsenal
