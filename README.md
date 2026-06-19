@@ -8,7 +8,7 @@
 
 
 
-### 🧠 Neural Profile
+###  Neural Profile
 
 AKC@local:~$ whoami
 > Researching the intersection of AI learning and real-world logic.
@@ -27,7 +27,7 @@ AKC@local:~$ whoami
 
 </div>
 
-📊 Laboratory Metrics
+ Laboratory Metrics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AshrutAKC&show_icons=true&theme=tokyonight&bg_color=0a192f&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrutAKC&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=38bdf8&text_color=94a3b8&hide_border=true" height="170" />
@@ -36,23 +36,23 @@ AKC@local:~$ whoami
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshrutAKC&theme=tokyonight&background=0a192f&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&hide_border=true" width="100%" />
 </div>
 
-🧪 Ongoing Experiment
+ Ongoing Experiment
 
-    🧬 AI Analysis Models: Building reliable architectures for data interpretation and predictive modeling.
+     AI Analysis Models: Building reliable architectures for data interpretation and predictive modeling.
 
-    ⚡ Optimization: Constantly tweaking my workflow between Cursor and Git for maximum efficiency.
+     Optimization: Constantly tweaking my workflow between Cursor and Git for maximum efficiency.
 
-🕹 Off-Duty Ops
+ Off-Duty Ops
 
 When I'm not training models or debugging, you can find me:
 
-    🎧 Music: Discovering and learning songs on the guitar.
+     Music: Discovering and learning songs on the guitar.
 
-    ⚽ Soccer: An animal, a competitor. SMELL THE GOAL
+     Soccer: An animal, a competitor. SMELL THE GOAL
 
-    🎮 Gaming: Blowing off steam and chilling with friends.
+     Gaming: Blowing off steam and chilling with friends.
 
-📡 Connectivity
+Connectivity
 <!-- Add your links below when ready! -->
 
     [SYSTEM MESSAGE]: Social links currently encrypted. Inquire via issues.
